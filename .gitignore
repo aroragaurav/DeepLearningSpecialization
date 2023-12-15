@@ -6,3 +6,6 @@ venv_cnn
 
 resnet50.data-00000-of-00001
 resnet50.h5
+road_video.mp4
+pred_video.mp4
+variables.data-00000-of-00001
