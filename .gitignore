@@ -9,3 +9,5 @@ resnet50.h5
 road_video.mp4
 pred_video.mp4
 variables.data-00000-of-00001
+imagenet-vgg-verydeep-19.mat
+vgg19_weights_tf_dim_ordering_tf_kernels_notop.h5
