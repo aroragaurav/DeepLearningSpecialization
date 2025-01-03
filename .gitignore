@@ -5,6 +5,7 @@ ml/courseera/dl_specialization/RNN/W4A3_UGL/*
 ml/courseera/dl_specialization/RNN/W4A4_UGL_POS/glove/*
 ml/courseera/dl_specialization/Coursera UY15SEHGCF7I.pdf
 ml/pytorch/dlwpt_code/dlwpt_venv/
+ml/pytorch/dlwpt_code/data
 .DS_Store
 venv_cnn
 .ipynb_checkpoints
